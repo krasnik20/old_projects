@@ -1,0 +1,6 @@
+C:\Users\LEXA228\Documents\SharpDevelop Projects\computations\computations\bin\Debug\computations.exe.config
+C:\Users\LEXA228\Documents\SharpDevelop Projects\computations\computations\bin\Debug\computations.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\computations\computations\bin\Debug\computations.pdb
+C:\Users\LEXA228\Documents\SharpDevelop Projects\computations\computations\obj\Debug\computations.csprojResolveAssemblyReference.cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\computations\computations\obj\Debug\computations.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\computations\computations\obj\Debug\computations.pdb

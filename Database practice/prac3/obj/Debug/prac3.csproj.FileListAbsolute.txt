@@ -1,0 +1,8 @@
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\bin\Debug\prac3.exe.config
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\bin\Debug\prac3.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\bin\Debug\prac3.pdb
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\obj\Debug\prac3.csprojResolveAssemblyReference.cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\obj\Debug\prac3.MainForm.resources
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\obj\Debug\prac3.csproj.GenerateResource.Cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\obj\Debug\prac3.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\prac3\prac3\obj\Debug\prac3.pdb

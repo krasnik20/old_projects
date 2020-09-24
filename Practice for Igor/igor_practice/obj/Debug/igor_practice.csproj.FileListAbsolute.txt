@@ -1,0 +1,7 @@
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\obj\Debug\igor_practice.csprojResolveAssemblyReference.cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\obj\Debug\igor_practice.csproj.GenerateResource.Cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\bin\Debug\igor_practice.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\bin\Debug\igor_practice.pdb
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\obj\Debug\igor_practice.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\obj\Debug\igor_practice.pdb
+C:\Users\LEXA228\Documents\SharpDevelop Projects\igor_practice\igor_practice\obj\Debug\practice.MainForm.resources

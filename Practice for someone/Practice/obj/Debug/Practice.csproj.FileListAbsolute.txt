@@ -1,0 +1,16 @@
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.MainForm.resources
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\LEXA228\Documents\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.pdb
+E:\Saves\SharpDevelop Projects\Practice\Practice\bin\Debug\Practice.exe.config
+E:\Saves\SharpDevelop Projects\Practice\Practice\bin\Debug\Practice.exe
+E:\Saves\SharpDevelop Projects\Practice\Practice\bin\Debug\Practice.pdb
+E:\Saves\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+E:\Saves\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.MainForm.resources
+E:\Saves\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+E:\Saves\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.exe
+E:\Saves\SharpDevelop Projects\Practice\Practice\obj\Debug\Practice.pdb
