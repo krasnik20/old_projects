@@ -1,5 +1,3 @@
-
-//рср ме бяе йнллемрюпхх
 #include "iostream" 
 #include "math.h"
 #include <time.h>
